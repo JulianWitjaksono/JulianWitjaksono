@@ -9,5 +9,13 @@ in this day i keep learn about Data Science also,Data Mining and Compute Science
 ## Thx all 👋
 <!-- ![JulianWitjaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianWitjaksono&theme=radical)
  -->
-[![JulianWitjaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianWitjaksono)](https://github.com/anuraghazra/github-readme-stats)
-![shinji](https://user-images.githubusercontent.com/77309909/207875338-b81cba4a-e940-4f7e-96a9-838916471671.jpg)
+ 
+ <html>
+ <body>
+ [![JulianWitjaksono's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianWitjaksono)](https://github.com/anuraghazra/github-readme-stats)
+ <p href="https://user-images.githubusercontent.com/77309909/207875338-b81cba4a-e940-4f7e-96a9-838916471671.jpg" width ="20" height = "20"/>
+ </body>
+
+
+</html>
+
