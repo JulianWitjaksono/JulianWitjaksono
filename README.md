@@ -14,3 +14,7 @@ in this day i keep learn about Data Science also,Data Mining and Compute Science
  -->
 <img src="https://user-images.githubusercontent.com/77309909/207878684-da8dd364-2d11-49fa-a1e4-632bf0b8e144.jpg"/>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p
